@@ -15,6 +15,16 @@ My Study Repository for [Getting Started with JavaScript, v2][course] course on 
     - Functions
   - Three Pillars of JS
     - Types / Coercion
+      - Primitive Types
+        1- undefined
+        2- null
+        3- string
+        4- number
+        5- boolean
+        6- symbol
+        7- bigint
+      - Converting Types
+      - Checking Equality
     - Scope / Closures
     - this / Prototypes
 
